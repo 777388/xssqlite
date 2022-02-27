@@ -1,7 +1,7 @@
 # xssqlite
 Grab All URLS, parse for fields, then XSS and SQL test it
 
-Requirements: Python, Massurl, GAU, Dalfox, SQLmap
+Requirements: Go, Python, Massurl, GAU, Dalfox, SQLmap
 
 https://github.com/theFr1nge/massurl
 
