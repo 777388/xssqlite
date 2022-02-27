@@ -3,6 +3,14 @@ Grab All URLS, parse for fields, then XSS and SQL test it
 
 Requirements: Python, Massurl, GAU, Dalfox, SQLmap
 
+https://github.com/theFr1nge/massurl
+
+https://github.com/lc/gau
+
+https://github.com/hahwul/dalfox
+
+https://github.com/sqlmapproject/sqlmap
+
 
 
 Usage: python xssqlite.py site.txt siteurl.txt
