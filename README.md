@@ -14,3 +14,5 @@ followed by a xss and sql readout
 
 
 Keep GAU, wsl, dalfox, sqlmap and massurl in the same folder unless you're willing to deal with path variables, I placed GAU and WSL in there already
+
+Planned projectory: Spider that crawls Hackerone and Bugcrowd for in scope urls to feed the program.
