@@ -18,7 +18,7 @@ Usage: python xssqlite.py site.txt siteurl.txt
 where site.txt is a list of urls you've gathered
 and siteurls.txt is the output file
 Will also output a second file of parsed fields
-followed by a xss and sql readout
+followed by a xss and sql readout which you have to pay attention while its running due to overfilling the terminal page.
 
 
 Keep GAU, wsl, dalfox, sqlmap and massurl in the same folder unless you're willing to deal with path variables, I placed GAU and WSL in there already
