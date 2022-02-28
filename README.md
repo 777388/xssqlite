@@ -1,5 +1,5 @@
 # xssqlite
-Grab All URLS, parse for fields, then XSS and SQL test it
+Find Subdomains, Grab All URLS for each, parse for fields, then XSS and SQL test it
 
 Requirements: Go, Python, Massurl, GAU, Dalfox, SQLmap, Sublist3r
 
