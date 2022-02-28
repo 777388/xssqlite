@@ -15,7 +15,7 @@ https://github.com/aboul3la/Sublist3r
 
 
 
-Usage: python xssqlite.py site.txt siteurl.txt
+Usage: python xssqlite.py site.txt siteurl.txt domain.com
 
 where site.txt is a list of urls you've gathered
 and siteurls.txt is the output file
